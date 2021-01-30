@@ -1,0 +1,23 @@
+{
+  "name": "vcbot",
+  "version": "1.0.0",
+  "description": "Voice to text bot for CSUN CECS 2021 SS12 Team 5",
+  "main": "vcbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/build-the-swamp/vcbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/build-the-swamp/vcbot/issues"
+  },
+  "homepage": "https://github.com/build-the-swamp/vcbot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
